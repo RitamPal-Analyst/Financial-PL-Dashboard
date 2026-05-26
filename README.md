@@ -157,7 +157,7 @@ dim_Category ──────► fact_Finance (Fact Table)
 Aspiring Data Analyst | Power BI · SQL · Excel · Python  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/palritam)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](your-github-url)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)]([your-github-url](https://github.com/RitamPal-Analyst))
 
 ---
 
