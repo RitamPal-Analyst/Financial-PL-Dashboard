@@ -140,13 +140,13 @@ dim_Category ──────► fact_Finance (Fact Table)
 ## 📸 Dashboard Preview
 
 ### Page 1 — Executive Summary
-Screenshot 2026-05-26 030149.png
+![Executive Summary](screenshots/page1_summary.png)
 
 ### Page 2 — Trend Analysis
-Screenshot 2026-05-26 030244.png
+![Trend Analysis](screenshots/page2_trend.png)
 
 ### Page 3 — Category Deep Dive
-Screenshot 2026-05-26 030320.png
+![Category Deep Dive](screenshots/page3_deepdive.png)
 
 ---
 
