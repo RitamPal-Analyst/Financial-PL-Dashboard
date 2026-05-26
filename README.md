@@ -140,28 +140,23 @@ dim_Category ──────► fact_Finance (Fact Table)
 ## 📸 Dashboard Preview
 
 ### Page 1 — Executive Summary
-*(Add your screenshot here)*
+Screenshot 2026-05-26 030149.png
 
 ### Page 2 — Trend Analysis
-*(Add your screenshot here)*
+Screenshot 2026-05-26 030244.png
 
 ### Page 3 — Category Deep Dive
-*(Add your screenshot here)*
+Screenshot 2026-05-26 030320.png
 
 ---
 
-## 🔗 Live Dashboard
-
-👉 [View Live Dashboard](#) *(Add your Power BI publish to web link here)*
-
----
 
 ## 👤 Author
 
-**[Your Name]**  
+**Ritam Pal**  
 Aspiring Data Analyst | Power BI · SQL · Excel · Python  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/palritam)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](your-github-url)
 
 ---
