@@ -1,6 +1,7 @@
 # 📊 Financial P&L Dashboard — FY2023
 ### Budget vs Actuals | Power BI · DAX · Power Query · Star Schema
-
+> 🎬 **Featured on Ivy Professional School's Official YouTube Channel**
+> [Watch the full video here](https://youtu.be/p9mEx2a6gEE?si=cQIr5wgLaWRtuoB1)
 ---
 
 ## 📌 Project Overview
